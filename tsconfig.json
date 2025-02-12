@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "ES2016",                                  
+
+    /* Modules */
+    "module": "commonjs",                                          
+    "esModuleInterop": true, 
+    "resolveJsonModule": true,                            
+    // "preserveSymlinks": true,                         
+    "forceConsistentCasingInFileNames": true,            
+
+    /* Type Checking */
+    "strict": true,                   
+    "skipLibCheck": true                                 
+  }
+}

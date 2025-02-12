@@ -1,0 +1,14 @@
+{
+    "users": [
+      {
+        "fname": "Ahsan",
+        "lname": "khan",
+        "username": "ahsan121",
+        "pass": "123456",
+        "email": "najeeb.khan@invobyte",
+        "numb": "1234567890",
+        "dob": "15-11-1997",
+        "subj": "Computer, Physics"
+      }
+    ]
+}
